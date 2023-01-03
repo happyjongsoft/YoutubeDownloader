@@ -14,8 +14,3 @@ It also supports searching by keywords, which is helpful if you want to quickly 
 - Automatically embed subtitles
 - Automatically inject media tags
 
-## Screenshots
-
-![list](.assets/list.png)
-![single](.assets/single.png)
-![multiple](.assets/multiple.png)
